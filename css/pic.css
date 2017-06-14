@@ -1,0 +1,93 @@
+body {
+    margin: 0px;
+    background-size: 100% 100%;
+	 background-color: aqua;
+    background-image:  url("http://cdn.deccanchronicle.com/sites/default/files/Virat%20Kohli%20Bengaluru%20Test_PTI.jpg");
+}
+}
+h1{
+	text-align: center
+}
+p {
+	 font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    color: #000;
+}
+
+div {
+	margin-bottom: 50px;
+	margin: 20px;
+	padding-left: 10px;
+	
+	
+    height: 200px;
+	margin-bottom: 50px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+#div_1 {
+	background-color:darkblue;
+	border: 20px;
+	border-color:aquamarine;
+	border-style:ridge;
+	
+ 
+
+#div_2 {
+	border: 30px;
+	border-color: red;
+	border-style:double;
+	
+    background-image: url("http://cdn.deccanchronicle.com/sites/default/files/Virat%20Kohli%20Bengaluru%20Test_PTI.jpg");
+}
+
+#div_3 {
+	border: 30px;
+	border-color:deeppink;
+	border-style:dotted;
+	background-color: blue;
+    background-image: url("../../../akku/images%20(4).jpg");
+}
+
+#div_4 {border: 20px;
+	border-color:darkblue;
+	border-style:double;
+	background-color: floralwhite;
+    background-image: url("../../../akku/images%20(5).jpg");
+}
+
+#div_5 {
+	border: 20px;
+	background-color: burlywood;
+	border-color: darkorchid;
+	border-style:dashed;   */* background-image: url("../../../akku/images%20(1).jpg");*/*
+}
+
+#div_6 {border: 20px;
+	border-color:darkgreen;
+	border-style:groove;
+	background-color:darkcyan;
+    background-image: url("../../../akku/images%20(3).jpg");
+}
+#div_7 {
+	background-color:darkblue;
+	border: 20px;
+	border-color:aquamarine;
+	border-style:ridge;
+	
+  url("http://cdn.deccanchronicle.com/sites/default/files/Virat%20Kohli%20Bengaluru%20Test_PTI.jpg");
+}
+
+#div_8 {
+	border: 30px;
+	border-color: red;
+	border-style:double;
+	
+    background-image: url("http://cdn.deccanchronicle.com/sites/default/files/Virat%20Kohli%20Bengaluru%20Test_PTI.jpg");
+}
